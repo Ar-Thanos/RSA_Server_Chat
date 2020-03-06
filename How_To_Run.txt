@@ -1,0 +1,5 @@
+This is a chat server I made where a user can send messages to other users and have it encrypted using RSA and 1 of 2 different cipher types (Add128 or Substitute) which is "randomnly" chosen per user.
+
+In order to run file two different command lines must be run one to compile the server file and one to compile the chat client.
+
+It will prompt you for a user name and the server name (for server name type in localhost). Enjoy the security!
